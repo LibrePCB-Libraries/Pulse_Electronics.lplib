@@ -1,0 +1,10 @@
+(librepcb_package_category 6a02d465-0672-4340-bc47-cbd87c498778
+ (name "Pulse Electronics")
+ (description "Custom packages by Pulse Electronics.")
+ (keywords "")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2023-10-05T15:00:49Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
