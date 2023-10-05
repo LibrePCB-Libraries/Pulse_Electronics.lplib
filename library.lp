@@ -1,0 +1,11 @@
+(librepcb_library 9ea5ab83-ecc5-444f-98d5-a94c50458a38
+ (name "Pulse Electronics")
+ (description "Inductors, chokes, connectors and more (unofficial).")
+ (keywords "")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2023-10-05T14:50:29Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Pulse_Electronics.lplib")
+ (manufacturer "Pulse Electronics")
+)
