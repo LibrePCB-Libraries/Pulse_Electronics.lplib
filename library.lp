@@ -7,6 +7,7 @@
  (created 2023-10-05T14:50:29Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Pulse_Electronics.lplib")
+ (dependency 6ccc516c-21b7-4cd5-9cf2-7a04cfa361c6)
  (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
  (manufacturer "Pulse Electronics")
 )
